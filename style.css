@@ -1,0 +1,106 @@
+*{
+    padding: 0;margin: 0;
+}
+
+body{
+    width: 70vw;
+    background-image: url(teddy4.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper
+{
+    height: 70vh;
+    width: 60vw;
+    margin-top: 85px;
+    margin-left: 255px;
+    background-color: rgba(255, 255, 255, 0.991);
+    justify-items: center;
+    border-radius: 15px;
+
+}
+
+
+.img{
+    width: 105px;
+    left: 20%;
+    margin-left: 400px;
+    border-radius: 50%;
+}
+
+.text11{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(171, 41, 84);
+    font-size: 45px;
+}
+.text1{
+    margin-top: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(104, 9, 93);
+    font-size: 45px;
+}
+
+.text2{
+    font-size: 23px;
+    
+}
+
+.data{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+.mainlogo
+{
+    margin-top: 85px;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+.logos
+{
+    width: 45px;
+}
+
+.buttons{
+    display:flex;
+    gap: 5px;
+    justify-content: center;
+    width: 200px;
+}
+
+.msgbuttons{
+    justify-content: center;
+    background-color: purple;
+    width: 200px;
+    margin: 10px;
+    padding: 25px;
+    margin-top: 35px;
+    margin-left: 750px;
+    font-weight: bold;
+    height: 58px;
+    border: none;
+    color: white;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+.followbuttons{
+    justify-content: center;
+    background-color: rgb(209, 33, 159);
+    width: 200px;
+    margin: 10px;
+    padding: 25px;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-weight: bold;
+    height: 58px;
+    border: none;
+    color: white;
+    font-size: 25px;
+    border-radius: 25px;
+}
